@@ -1,0 +1,6 @@
+./.venv/pyvenv.cfg
+./Datos/covidtracking/all-states-history.csv
+./Datos/covidtracking/national-history.csv
+./Docs/README.md
+./notebooks/1_analisis_exploratorio_covid.ipynb
+./notebooks/2_analisis_exploratorio_covid.ipynb
