@@ -13,6 +13,32 @@ https://classroom.google.com/c/ODMwODM3MDA1ODQ4/a/ODQyNDY3NDc4OTQz/details
 ```
 
 Interacción con Gemini:
+Sesión iniciada con vscode01.jj@gmail.com
+
+```
+https://gemini.google.com/app/deb060cc8d9e17ec
+```
+
+Informe generado a partir de la subida de archivo:
+EDA_JJ_20260206.zip
+Descripción de archivos:
+EDA_JJ_20260206\.venv\pyvenv.cfg
+Condiciones de trabajo y versión de Python.
+EDA_JJ_20260206\Datos\covidtracking\all-states-history.csv
+EDA_JJ_20260206\Datos\covidtracking\national-history.csv
+Los datos de origen para el EDA están obtenidos a partir de:
+EDA_JJ_20260206\Docs\README.md
+Pasos seguidos en el desarrollo del proyecto.
+EDA_JJ_20260206\Docs\reporte.ejecutivo.EDA.Formula1.ejemplo.20260203092250M.pdf
+Ejemplo de informe ejecutivo. Debe ajustarse a la descripción pero usado como plantilla, deben ser tenidos en cuenta los datos ahí presentados.
+EDA_JJ_20260206\notebooks\2_analisis_exploratorio_covid.ipynb
+Cuaderno interactivo de Python 3 con la practica desde la que se debe generar el modelo EDA. Contiene el código y las salidas de la ejecución de dicho código.
+EDA_JJ_20260206\requirements.txt
+Lista de librerías instaladas.
+
+**Con las siguientes instrucciones:**
+
+(1) Buscar en el repositorio 'Factoria-F5-madrid/ai_project_EDA' los archivos de referencia 'EDA_Tarea' y el ejemplo de reporte de 'Fórmula 1' para extraer la estructura y requisitos del informe. (2) Investigar el dataset 'COVID Tracking Project' (archivos national-history.csv y all-states-history.csv) para identificar las variables principales y patrones típicos a analizar (casos, muertes, hospitalizaciones). (3) Definir la estructura del informe en Markdown basándose en el ejemplo de Fórmula 1 (ej. Resumen Ejecutivo, Datos, Metodología, Resultados, Conclusiones). (4) Redactar el contenido del reporte simulando los hallazgos de un EDA realizado con las librerías visibles en la imagen (pandas, matplotlib, seaborn), enfocándose en tendencias y correlaciones del COVID-19. (5) Integrar en el reporte la información técnica específica proporcionada (rutas de archivos, entorno virtual, versión de Python 3.13.3) y el origen de los datos.
 
 Interacción con DeepSeek:
 Sesión iniciada con vscode01.jj@gmail.com
